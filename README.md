@@ -1,2 +1,2 @@
 # NerdLuv
- A dating site for nerds. 
+ A dating site for nerds. This site uses Apache, PHP, as well as HTML5. In order to run it, a local server will be needed, so PHP can run. I personally used an applicaiton called XAMP to run the program,becasue it has Apache, MySQL, and PHP built into one convinient app. The goal of the site is to first create a porfile and once a profile has been created, you may log back in and see your potential matches. 
